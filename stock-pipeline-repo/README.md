@@ -80,10 +80,9 @@ The API key is stored in a pipeline parameter and is **not** part of this reposi
 
 Add your screenshots to `docs/images/` and update the paths below.
 
-![Market overview](docs/images/dashboard_market_overview.png)
-![Stock analysis](docs/images/dashboard_stock_analysis.png)
-![Pipeline in Fabric](docs/images/pipeline_canvas.png)
-![Scheduled runs in Monitor](docs/images/monitor_runs.png)
+![Market overview](https://drive.google.com/file/d/1KrDlB8TO71_i8G9Zne9MPsYnf09mbFhm/view?usp=sharing)
+![Pipeline in Fabric](https://drive.google.com/file/d/17zVMbXCT28Jmee6UGUTB_-y8CNwrNOaB/view?usp=sharing)
+![Scheduled runs in Monitor](https://drive.google.com/file/d/1Si62wAnOedtYDH_1rICFCbqm3b3-Mvh9/view?usp=sharing)
 
 ## Repository structure
 
